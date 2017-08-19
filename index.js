@@ -29,8 +29,8 @@ AFRAME.registerComponent('advance-question', {
             var newQKey = 0;
             if(direction === 'random'){
                 // choose a random item that is not the current one
-                newQKey = Math.floor((Math.random() * (IBQuestions.length-1)));
-                if(newQKey >= qKey) newQKey++;
+                //newQKey = Math.floor((Math.random() * (IBQuestions.length-1)));
+                //if(newQKey >= qKey) newQKey++;
             }
             else if(direction === 'prev'){
                 newQKey = (IBQuestions.length + qKey - 1) % IBQuestions.length;
