@@ -28,13 +28,13 @@ AFRAME.registerComponent('advance-question', {
             var qKey = parseInt(display.getAttribute('display-question'));
             var newQKey = 0;
             if(direction === 'random'){
-				newQKey = (IBQuestions.length + qKey + 1) % IBQuestions.length;
+                // choose a random item that is not the current one
+                newQKey = Math.floor((Math.random() * (IBQuestions.length-1)));
+                if(newQKey >= qKey) newQKey++;
             }
-			
             else if(direction === 'prev'){
                 newQKey = (IBQuestions.length + qKey - 1) % IBQuestions.length;
             }
-			
             else if(direction === 'next'){
                 newQKey = (IBQuestions.length + qKey + 1) % IBQuestions.length;
             }
