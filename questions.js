@@ -58,7 +58,7 @@
 		"How do you feel about your relationship with your mother?",
 		"Make three true “we” statements each. For instance, “We are both in this room feeling ... ",
 		"Complete this sentence: “I wish I had someone with whom I could share ... ",
-		"If you could have three wishes from your game partner, what would they be?"
+		"If you could have three wishes from your game partner, what would they be?",
 		"If you were going to become a close friend with your Game partner, please share what would be important for him or her to know.",
 		"Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.",
 		"Share with your partner an embarrassing moment in your life.",
