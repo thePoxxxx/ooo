@@ -98,7 +98,6 @@
 		"Is there anything you won’t do in bed?",
 		"How old were you when you lost your virginity?",
 		"Do you feel like anything is missing from your life?",
-		"Would you rather die a virgin or a whore?",
 		"Would you rather: Have amazing sex that lasts 47 seconds? Or have average sex that lasts 10 minutes?",
 		"What actor or actress would play you in a movie about your life?",
     ];
