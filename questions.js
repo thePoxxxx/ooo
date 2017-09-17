@@ -40,7 +40,7 @@
 		"Have you ever manipulated someone to get what you wanted?",
 		"Do you believe in love at first sight or do you think it takes time to grow?",
 		"Do you believe in destiny?",
-		"What thoughts make you unhappy?",
+	    	"What thoughts make you unhappy?",
 		"What’s the most childish thing you still love to do?",
 		"Before making a telephone call, do you ever rehearse what you are going to say? Why?",
 		"What would constitute a “perfect” day for you?",
@@ -101,6 +101,5 @@
 		"Would you rather die a virgin or a whore?",
 		"Would you rather: Have amazing sex that lasts 47 seconds? Or have average sex that lasts 10 minutes?",
 		"What actor or actress would play you in a movie about your life?",
-
     ];
 })();
